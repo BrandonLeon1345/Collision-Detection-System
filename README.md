@@ -82,3 +82,5 @@ Based on system analysis, recommended improvements include:
 * Upgrading to hardware with built-in AI acceleration (ESP32-S3, ESP32-P4, Nicla Vision)
 * Applying model compression (quantization-aware training, pruning)
 * Reducing latency below 1 second for real-time applications
+
+https://www.youtube.com/watch?v=GNl4UsZiO28
